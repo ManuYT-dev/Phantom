@@ -1,0 +1,22 @@
+# Bot token — NEVER commit this
+TOKEN
+OWNER
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.env
+venv/
+.venv/
+
+# OS
+.DS_Store
+Thumbs.db
+
+creater.py
+doxing_bot.spec
+image.ico
+launcher.exe
+silent_installer_new.iss
+silent_installer_old.iss
