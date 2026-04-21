@@ -1,1 +1,6 @@
-git p
+discord.py
+pynput
+mss
+opencv-python
+pygame
+requests
