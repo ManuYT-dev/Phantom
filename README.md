@@ -104,9 +104,10 @@ pip install -r requirements.txt
 echo YOUR_BOT_TOKEN_HERE > TOKEN
 ```
 
-**5. Update the owner ID**  
-In `main.py`, replace the ID in `bot.fetch_user(...)` with your own Discord user ID.
-
+**5. Create the OWNER file**  
+```bash
+echo YOUR_DISCORD_USER_ID > TOKEN
+```
 **6. Run the bot**
 ```bash
 python main.py
